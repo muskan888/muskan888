@@ -33,21 +33,6 @@
   - Upgraded T-Mobile’s enterprise customer portal, boosting user productivity by 23%.
   - Implemented custom account summary view columns and streamlined data export.
 
-## 🚀 Projects
-
-- **Connect Sphere |** January 2023
-  - Developed a real-time video calling and chat platform using HTML, Socket.io, Node.js, Express.js, and AWS.
-
-- **Explore Hub |** June 2023
-  - Created a tour management website with hotel bookings, interactive maps, and secure payment integration using MongoDB, Express.js, React.js, Node.js, and Vercel.
-
-- **DocuMingle |** December 2023
-  - Built a document editing and collaboration platform with real-time editing features and cloud storage solutions using MongoDB, React.js, and WebSocket.
-
-## 🛠 Technical Skills
-- **Languages:** C/C++, Python, Java, SQL
-- **Frameworks/Tools:** HTML, CSS, JavaScript, GraphQL, XML, PHP, React.js, React Native, Node.js, Firebase, Socket.io, ASP.NET, PostgreSQL, MongoDB, Express.js, Angular, Flask, Django, Git
-- **Cloud Computing Platforms:** Microsoft Azure, AWS, CI/CD Pipelines
 
 ## 🏆 Achievements
 - **Tech Wizard (YouTube Channel)**
