@@ -26,7 +26,7 @@
 ### Pcc Softech
 - **Software Development Intern**
 - Delhi, India
-- August 2021 – Jan 2022
+- April 2021 – Jan 2022
 
 
 
