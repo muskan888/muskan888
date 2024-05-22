@@ -21,17 +21,13 @@
 - **Software Development Intern**
 - Bangalore, Karnataka
 - May 2022 - July 2022
-  - Enhanced Microsoft Teams' search bar, leading to a 10% decrease in Time-to-Success (TTS).
-  - Increased user engagement by 20% by making secondary actions easily discoverable.
-  - Utilized TypeScript, React.js, GraphQL, Angular, and Microsoft Azure.
-  - Conducted unit tests and deployed features, resulting in a 30% increase in feature utilization.
+
 
 ### Pcc Softech
 - **Software Development Intern**
 - Delhi, India
 - August 2021 – Jan 2022
-  - Upgraded T-Mobile’s enterprise customer portal, boosting user productivity by 23%.
-  - Implemented custom account summary view columns and streamlined data export.
+
 
 
 ## 🏆 Achievements
