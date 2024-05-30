@@ -2,8 +2,8 @@
 
 
 ## 💼 My Portfolio
-- **Portfolio:** [Portfolio](https://portfolio1-eight-pearl.vercel.app/)
--  **Linkedin:** [Portfolio](https://www.linkedin.com/in/muskandhingra/)
--  **Email:** [Portfolio](dhingramuskan2001@gmail.com)
+- **Portfolio:** [https://portfolio1-eight-pearl.vercel.app/](https://portfolio1-eight-pearl.vercel.app/)
+-  **Linkedin:** [https://www.linkedin.com/in/muskandhingra/](https://www.linkedin.com/in/muskandhingra/)
+-  **Email:** [dhingramuskan2001@gmail.com](dhingramuskan2001@gmail.com)
 
 
