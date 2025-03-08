@@ -1,24 +1,29 @@
 # Hi there, I am Muskan Dhingra 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/muskandhingra/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-red)](https://portfolio1-eight-pearl.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-red?logo=googlechrome)](https://portfolio1-eight-pearl.vercel.app/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](https://x.com/MuskanD11424981)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://www.youtube.com/channel/UCqEXx97n0Z7_dU_qhsfNdAA)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-informational)](mailto:dhingramuskan2001@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-informational?logo=gmail)](mailto:dhingramuskan2001@gmail.com)
 
 ---
 
-## 💼 **My Portfolio**
-- **Portfolio:** [https://portfolio1-eight-pearl.vercel.app/](https://portfolio1-eight-pearl.vercel.app/)
-- **LinkedIn:** [https://www.linkedin.com/in/muskandhingra/](https://www.linkedin.com/in/muskandhingra/)
-- **Email:** [dhingramuskan2001@gmail.com](mailto:dhingramuskan2001@gmail.com)
+## 🚀 About Me
 
-I actively post on **Twitter/X** about **distributed systems, backend engineering, and emerging technology trends**:  
-📌 [https://x.com/MuskanD11424981](https://x.com/MuskanD11424981)  
+🔹 **Master’s student at Indiana University**  
+🔹 **2+ years of hands-on software development experience**  
+🔹 Passionate about **LLMs & Generative AI**  
+🔹 Quick learner, especially when it comes to **LLMs & AI models**  
+🔹 My **portfolio** showcases real-world projects & practical experience  
 
-Additionally, I am passionate about **sharing knowledge and contributing to the tech community**.  
-🎥 I run a **YouTube channel** where I teach fundamental programming concepts and software development topics:  
-📌 [https://www.youtube.com/channel/UCqEXx97n0Z7_dU_qhsfNdAA](https://www.youtube.com/channel/UCqEXx97n0Z7_dU_qhsfNdAA)
+---
+
+## 💼 **Portfolio & Socials**
+🌐 **Portfolio:** [https://portfolio1-eight-pearl.vercel.app/](https://portfolio1-eight-pearl.vercel.app/)  
+📌 **LinkedIn:** [https://www.linkedin.com/in/muskandhingra/](https://www.linkedin.com/in/muskandhingra/)  
+📢 **Twitter/X:** [https://x.com/MuskanD11424981](https://x.com/MuskanD11424981)  
+📺 **YouTube:** [https://www.youtube.com/channel/UCqEXx97n0Z7_dU_qhsfNdAA](https://www.youtube.com/channel/UCqEXx97n0Z7_dU_qhsfNdAA)  
+📧 **Email:** [dhingramuskan2001@gmail.com](mailto:dhingramuskan2001@gmail.com)  
 
 ---
 
@@ -45,14 +50,14 @@ Additionally, I am passionate about **sharing knowledge and contributing to the 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
 </p>
 
 ### **Cloud Platforms & DevOps**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"/>
 </p>
@@ -69,7 +74,7 @@ Additionally, I am passionate about **sharing knowledge and contributing to the 
 ---
 
 ## 🎬 **Fun GIF**
-<img src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" width="500"/>
+<img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="500"/>
 
 ---
 
