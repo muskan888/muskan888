@@ -65,13 +65,11 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-### 🌟 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuskanDhingra&langs_count=8&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-### 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=muskan888&theme=dark&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+| **🌟 Most Used Languages**                                                                 | **🔥 GitHub Streak & Contributions**                                                                 |
+|-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuskanDhingra&langs_count=8&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub Streak](https://streak-stats.demolab.com?user=muskan888&theme=dark&hide_border=true&border_radius=10)](https://git.io/streak-stats) <br> [![Contributions](https://github-readme-stats.vercel.app/api?username=MuskanDhingra&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
 
 ---
 
@@ -83,4 +81,4 @@
 ---
 
 ## 🙌 Thanks for Visiting!
-Let’s connect, collaborate, and grow together! 🌱  
+Let’s connect, collaborate, and grow together! 🌱
