@@ -16,7 +16,7 @@
 - 🎓 **Master's student at Indiana University**  
 - 💻 **2+ years of hands-on software development experience**  
 - 🤖 Passionate about **Software Engineering and AI**
-- 
+
 ---
 
 ## 🌐 Connect with Me
