@@ -21,6 +21,7 @@
 
 ## 🌐 Connect with Me
 
+- 📨 **Email:** [dhingramuskan2001@gmail.com](dhingramuskan2001@gmail.com)  
 - 🔍 **Portfolio:** [https://portfolio1-eight-pearl.vercel.app/](https://portfolio1-eight-pearl.vercel.app/)  
 - 📄 **Resume:** [View/Download PDF](https://drive.google.com/file/d/1OAXxyYtUgGUsXZYsx6HeEW4dMbKNlV4G/view?usp=sharing)
 - 📱 **Phone:** +1 551 362 9180
