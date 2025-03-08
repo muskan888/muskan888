@@ -84,7 +84,11 @@
 
 ---
 
+## 📊 GitHub Stats
 
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskan888&langs_count=8&layout=compact&theme=dark&hide_border=true" alt="Top Languages" style="height: 200px;"/>
+</div>
 
 ---
 
