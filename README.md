@@ -12,25 +12,27 @@
   <div style="flex: 1; min-width: 400px;">
     <p>Hi, I'm <strong>Muskan Dhingra</strong>, a Master's student at Indiana University with over 2 years of software development experience. I'm passionate about <strong>Large Language Models (LLMs)</strong> & <strong>Generative AI</strong>, offering a solid foundation in software engineering across multiple platforms. I quickly master new technologies and thrive in both team and self-directed settings.</p>
     
-    <h2>💻 Languages and Tools</h2>
-    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-    </div>
-    
-    <h2>📊 My GitHub Stats</h2>
-    <div style="display: flex; gap: 20px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskan888&langs_count=6&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="400"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=muskan888&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="400"/>
-    </div>
-  </div>
+    ## 💻 Languages and Tools
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</p>
+
+---
+
+## 📊 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskan888&langs_count=6&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=muskan888&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="400"/>
+</p>
+
   
   <div style="flex: 1; min-width: 400px; display: flex; justify-content: center; align-items: center;">
     <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Girl Coding GIF" width="450"/>
