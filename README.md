@@ -84,13 +84,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskan888&langs_count=8&layout=compact&theme=dark&hide_border=true" alt="Top Languages" style="height: 200px;"/>
-  <img src="https://streak-stats.demolab.com?user=muskan888&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak" style="height: 200px;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=muskan888&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" style="height: 200px;"/>
-</div>
 
 ---
 
