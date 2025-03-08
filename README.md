@@ -1,4 +1,4 @@
-# Hi there, I am Muskan Dhingra 👋
+# Hi there, I am Muskan Dhingra
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/muskandhingra/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-red?logo=googlechrome)](https://portfolio1-eight-pearl.vercel.app/)
@@ -8,29 +8,29 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-🔹 **Master’s student at Indiana University**  
-🔹 **2+ years of hands-on software development experience**  
-🔹 Passionate about **LLMs & Generative AI**  
-🔹 Quick learner, especially in **LLMs & AI models**  
-🔹 My **portfolio** showcases real-world projects & practical experience  
-
----
-
-## 🌐 Connect with Me
-
-📌 **Portfolio:** [https://portfolio1-eight-pearl.vercel.app/](https://portfolio1-eight-pearl.vercel.app/)  
-
-🐦 **Twitter/X:** I actively post about **distributed systems, backend engineering, and emerging tech trends:**  
-🔗 [https://x.com/MuskanD11424981](https://x.com/MuskanD11424981)  
-
-🎥 **YouTube:** Passionate about **teaching & sharing knowledge**. I run a YouTube channel covering **programming concepts & software development:**  
-🔗 [https://www.youtube.com/channel/UCqEXx97n0Z7_dU_qhsfNdAA](https://www.youtube.com/channel/UCqEXx97n0Z7_dU_qhsfNdAA)  
+- **Master's student at Indiana University**  
+- **2+ years of hands-on software development experience**  
+- Passionate about **LLMs & Generative AI**  
+- Quick learner, especially in **LLMs & AI models**  
+- My **portfolio** showcases real-world projects & practical experience  
 
 ---
 
-## 💻 **Languages and Technologies**
+## Connect with Me
+
+- **Portfolio:** [https://portfolio1-eight-pearl.vercel.app/](https://portfolio1-eight-pearl.vercel.app/)  
+
+- **Twitter/X:** I actively post about **distributed systems, backend engineering, and emerging tech trends:**  
+[https://x.com/MuskanD11424981](https://x.com/MuskanD11424981)  
+
+- **YouTube:** Passionate about **teaching & sharing knowledge**. I run a YouTube channel covering **programming concepts & software development:**  
+[https://www.youtube.com/channel/UCqEXx97n0Z7_dU_qhsfNdAA](https://www.youtube.com/channel/UCqEXx97n0Z7_dU_qhsfNdAA)  
+
+---
+
+## **Languages and Technologies**
 ### **Languages**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -67,19 +67,19 @@
 
 ---
 
-## 🛠️ **Technical Skills**
-🔹 **Front-end & Back-end Development**  
-🔹 **Agile, Unit Testing, Microservices**  
-🔹 **Scrum, DevOps, CI/CD Pipelines**  
-🔹 **Terraform, Postman, Socket.io, Prisma**  
+## **Technical Skills**
+- **Front-end & Back-end Development**  
+- **Agile, Unit Testing, Microservices**  
+- **Scrum, DevOps, CI/CD Pipelines**  
+- **Terraform, Postman, Socket.io, Prisma**  
 
 ---
 
-## 🎬 **Fun GIF**
+## **Girl Coding GIF**
 <p align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
 </p>
 
 ---
 
-🔹 **Thanks for stopping by!** Let's connect and grow together. 🚀
+**Thanks for stopping by!** Let's connect and grow together.
