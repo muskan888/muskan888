@@ -15,10 +15,8 @@
 
 - 🎓 **Master's student at Indiana University**  
 - 💻 **2+ years of hands-on software development experience**  
-- 🤖 Passionate about **LLMs & Generative AI**  
-- 📚 Quick learner, especially in **LLMs & AI models**  
-- 🔗 My **portfolio** showcases real-world projects & practical experience  
-
+- 🤖 Passionate about **Software Engineering and AI**
+- 
 ---
 
 ## 🌐 Connect with Me
