@@ -67,9 +67,17 @@
 
 ## 📊 GitHub Stats
 
-| **🌟 Most Used Languages**                                                                 | **🔥 GitHub Streak & Contributions**                                                                 |
-|-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuskanDhingra&langs_count=8&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub Streak](https://streak-stats.demolab.com?user=muskan888&theme=dark&hide_border=true&border_radius=10)](https://git.io/streak-stats) <br> [![Contributions](https://github-readme-stats.vercel.app/api?username=MuskanDhingra&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <h3>🌟 Most Used Languages</h3>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&langs_count=8&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  </div>
+  <div>
+    <h3>🔥 GitHub Streak & Contributions</h3>
+    <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak" /><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  </div>
+</div>
 
 ---
 
