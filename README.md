@@ -27,8 +27,6 @@
 - 📱 **Phone:** +1 551 362 9180
 - 🐦 **Twitter/X:** I actively post about **distributed systems, frontend/backend engineering, and emerging tech trends:**  
 [https://x.com/MuskanD11424981](https://x.com/MuskanD11424981)  
-- 📺 **YouTube:** Passionate about **teaching & sharing knowledge**. I run a YouTube channel covering **programming concepts & software development:**  
-[https://www.youtube.com/channel/UCqEXx97n0Z7_dU_qhsfNdAA](https://www.youtube.com/channel/UCqEXx97n0Z7_dU_qhsfNdAA)  
 
 ---
 
